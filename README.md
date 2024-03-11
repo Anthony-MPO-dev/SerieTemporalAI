@@ -24,6 +24,6 @@ Notebooks e datasets específicos para o modelo ARIMA, incluindo os componentes 
 
 - /ARIMA/datasets: Datasets específicos para o ARIMA.
 
--/RedesNeurais/ (Futuro):
+- /RedesNeurais/ (Futuro):
   - /RedesNeurais/LSTM: Futuros notebooks e datasets para estudos com LSTM.
   - /RedesNeurais/GRU: Futuros notebooks e datasets para estudos com GRU.
